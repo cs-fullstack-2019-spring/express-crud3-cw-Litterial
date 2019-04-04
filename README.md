@@ -1,3 +1,6 @@
+## POINTS: 2.0
+## KEY: Well done! GGs
+
 # Express CRUD classwork
 
 Reference here for sample data: https://pokedex.org/#/
